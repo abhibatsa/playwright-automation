@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+
+# Playwright test artifacts and reports
+playwright-report/
+test-results/
+test-results.json
+results.xml
+*.png
+
+# System files
+.DS_Store
