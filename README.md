@@ -1,11 +1,13 @@
 # Playwright Automation Project
 
-A test automation framework built using Playwright and JavaScript/TypeScript.
+A test automation framework built using Playwright and JavaScript.
 
 ## 🚀 Features
+* Built-in demo-store application
 * Automated end-to-end web testing
 * Custom Page Object Model (POM) architecture
 * Auto-generated HTML and XML test reporting
+* Creates .webm videos for the tests
 
 ## 🛠️ Prerequisites
 Before running the tests, ensure you have the following installed:
@@ -14,7 +16,7 @@ Before running the tests, ensure you have the following installed:
 ## 📦 Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone git@github.com:somename/playwright-automation.git
+   git clone git@github.com:abhibatsa/playwright-automation.git
    ```
 2. Navigate into the project folder:
    ```bash
