@@ -1,0 +1,10 @@
+{
+    "validUser": {
+      "email": "testuser",
+      "firstName": "Test",
+      "lastName": "User"
+    },
+    "invalidUser": {
+      "email": "invaliduser"
+    }
+  }
