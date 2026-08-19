@@ -47,3 +47,5 @@ Before running the tests, ensure you have the following installed:
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+[![Profile Views](https://komarev.com/ghpvc/?username=abhibatsa&color=blue&style=flat)](https://github.com/abhibatsa)
